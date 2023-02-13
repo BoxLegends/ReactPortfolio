@@ -1,0 +1,19 @@
+.about {
+    background: rgb(94, 3, 94);
+    padding: 30px;
+    text-align: center;
+  }
+
+  .about p {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+  }
+
+  .about img {
+    content: url(./images/selfie.jpg);
+    max-height: 400px;
+    clear: both;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
